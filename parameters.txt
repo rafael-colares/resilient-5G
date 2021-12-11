@@ -1,0 +1,12 @@
+******* Input File Paths *******
+nodeFile=../Instances/Cost266/node.csv
+linkFile=../Instances/Cost266/link.csv
+demandFile=../Instances/Cost266/demand.csv
+vnfFile=../Instances/Cost266/vnf.csv
+
+******* Optimization Parameters *******
+linearRelaxation=0
+timeLimit=7200
+
+******* Output File Paths *******
+outputFile=../Instances/Cost266/Output/output.txt
